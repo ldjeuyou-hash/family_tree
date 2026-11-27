@@ -1,0 +1,1 @@
+import{S as e,b as t,et as n}from"../chunks/DMnrbeo2.js";import{o as r}from"../chunks/D6g45aYF.js";import"../chunks/xihTtKlq.js";import{t as i}from"../chunks/CDaWhs9j.js";import{n as a}from"../chunks/CdTbW-vA.js";var o=n({load:()=>s});function s(){a(307,`${r}/person/${i}`)}var c=e(`<p>Redirecting…</p>`);function l(e){var n=c();t(e,n)}export{l as component,o as universal};
