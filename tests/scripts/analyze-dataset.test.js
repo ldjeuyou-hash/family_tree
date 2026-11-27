@@ -5,7 +5,7 @@ import { execFileSync } from 'node:child_process';
 describe('scripts/analyze_dataset.py', () => {
   const run = (...args) =>
     JSON.parse(
-      execFileSync('python3', ['scripts/analyze_dataset.py', ...args], { encoding: 'utf8' })
+      execFileSync('python', ['scripts/analyze_dataset.py', ...args], { encoding: 'utf8' })
     );
 
   it('prints stats for the shipped dataset', () => {

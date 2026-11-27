@@ -1,11 +1,11 @@
 [
   {
     "id": "P0001",
-    "names": [{ "value": "Elin Bergqvist", "type": "birth", "source_id": null }],
+    "names": [{ "value": "Fo Kamga", "type": "birth", "source_id": null }],
     "sex": "F",
-    "birth": { "date": "1901-03-04", "year": null, "place": "Åby, Sweden", "source_id": null },
-    "death": { "date": "1978-11-02", "year": null, "place": "Åby, Sweden", "age_at_death": 77, "source_id": null },
-    "occupation": ["Lantbrukare (farmer)"],
+    "birth": { "date": "1901-01-01", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
+    "death": { "date": "1952-01-01", "year": null, "place": null, "age_at_death": 49, "source_id": null },
+    "occupation": ["Chef Bandjoun"],
     "notes": "",
     "sources": [],
     "conflicts": [],
@@ -13,11 +13,11 @@
   },
   {
     "id": "P0002",
-    "names": [{ "value": "Nils Bergqvist", "type": "birth", "source_id": null }],
+    "names": [{ "value": "Mefo Tchouambou", "type": "birth", "source_id": null }],
     "sex": "M",
-    "birth": { "date": "1898-07-19", "year": null, "place": "Väster, Sweden", "source_id": null },
-    "death": { "date": "1965-02-14", "year": null, "place": "Väster, Sweden", "age_at_death": 66, "source_id": null },
-    "occupation": ["Snickare (carpenter)"],
+    "birth": { "date": "1898-07-19", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": ["Reine Chefferie Bandjoun"],
     "notes": "",
     "sources": [],
     "conflicts": [],
@@ -25,23 +25,23 @@
   },
   {
     "id": "P0003",
-    "names": [{ "value": "Karin Bergqvist", "type": "birth", "source_id": null }],
+    "names": [{ "value": "Mefo Mégne", "type": "birth", "source_id": null }],
     "sex": "F",
-    "birth": { "date": "1925-05-30", "year": null, "place": "Åby, Sweden", "source_id": null },
+    "birth": { "date": "1899-07-19", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
     "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
-    "occupation": ["Lärare (teacher)"],
-    "notes": "Moved to Uppsala in 1948 to study.",
+    "occupation": ["Inconnue"],
+    "notes": "Chefferie Fotouni",
     "sources": [],
     "conflicts": [],
     "status": "confirmed"
   },
   {
     "id": "P0004",
-    "names": [{ "value": "Gustav Lindqvist", "type": "birth", "source_id": null }],
+    "names": [{ "value": "Mefo Kemtchouang", "type": "birth", "source_id": null }],
     "sex": "M",
-    "birth": { "date": "1922-09-10", "year": null, "place": "Uppsala, Sweden", "source_id": null },
-    "death": { "date": "2001-03-22", "year": null, "place": "Uppsala, Sweden", "age_at_death": 78, "source_id": null },
-    "occupation": ["Ingenjör (engineer)"],
+    "birth": { "date": "1910-09-10", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [""],
     "notes": "",
     "sources": [],
     "conflicts": [],
@@ -49,33 +49,33 @@
   },
   {
     "id": "P0005",
-    "names": [{ "value": "Otto Bergqvist", "type": "birth", "source_id": null }],
+    "names": [{ "value": "Inconnue", "type": "birth", "source_id": null }],
     "sex": "M",
-    "birth": { "date": "1928-01-15", "year": null, "place": "Åby, Sweden", "source_id": null },
+    "birth": { "date": "1912-01-15", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
     "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
     "occupation": [],
-    "notes": "Emigrated to Canada in 1950.",
+    "notes": "Chefferie Bangam",
     "sources": [],
     "conflicts": [],
     "status": "confirmed"
   },
   {
     "id": "P0006",
-    "names": [{ "value": "Maja Lindqvist", "type": "birth", "source_id": null }],
+    "names": [{ "value": "Inconnue", "type": "birth", "source_id": null }],
     "sex": "F",
-    "birth": { "date": "1950-06-01", "year": null, "place": "Uppsala, Sweden", "source_id": null },
+    "birth": { "date": "1950-06-01", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
     "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
-    "occupation": ["Läkare (physician)"],
-    "notes": "",
+    "occupation": [],
+    "notes": "Chefferie Bafoussam",
     "sources": [],
     "conflicts": [],
     "status": "confirmed"
   },
   {
     "id": "P0007",
-    "names": [{ "value": "Henrik Söderström", "type": "birth", "source_id": null }],
+    "names": [{ "value": "Maman NGANHALÉ", "type": "birth", "source_id": null }],
     "sex": "M",
-    "birth": { "date": "1948-12-25", "year": null, "place": "Stockholm, Sweden", "source_id": null },
+    "birth": { "date": "1948-12-25", "year": null, "place": "Batié, Cameroon", "source_id": null },
     "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
     "occupation": ["Arkitekt (architect)"],
     "notes": "",
@@ -86,11 +86,136 @@
   {
     "id": "P0008",
     "names": [
-      { "value": "Astrid Söderström", "type": "birth", "source_id": null },
-      { "value": "Åsa Söderström", "type": "variant", "source_id": null }
+      { "value": "KEMGANG", "type": "birth", "source_id": null }
     ],
     "sex": "F",
-    "birth": { "date": "1975-04-18", "year": null, "place": "Stockholm, Sweden", "source_id": null },
+    "birth": { "date": "1975-04-18", "year": null, "place": "Batié, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "Chefferie Batié",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0009",
+    "names": [
+      { "value": "Fo KEMGANHALÉ", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1958-04-18", "year": null, "place": "Batié, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "Chefferie Batié",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0010",
+    "names": [
+      { "value": "TEKHEU/TAGNE FOKOU", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1975-03-01", "year": null, "place": "Batié, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "TE FOKOU I",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0011",
+    "names": [
+      { "value": "FOZEU", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1979-02-18", "year": null, "place": "Batié, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0012",
+    "names": [
+      { "value": "MÉLÉKOU", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1980-01-18", "year": null, "place": "Batié, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0013",
+    "names": [
+      { "value": "MOKEM", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1990-03-18", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0014",
+    "names": [
+      { "value": "NGANHALE Christine", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1975-07-18", "year": null, "place": "Batié, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0015",
+    "names": [
+      { "value": "METOU Marie", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1975-10-18", "year": null, "place": "Batié, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0016",
+    "names": [
+      { "value": "Inconnue", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1940-02-18", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
+    "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
+    "occupation": [],
+    "notes": "",
+    "sources": [],
+    "conflicts": [],
+    "status": "confirmed"
+  },
+  {
+    "id": "P0017",
+    "names": [
+      { "value": "Inconnue", "type": "birth", "source_id": null }
+    ],
+    "sex": "F",
+    "birth": { "date": "1904-03-18", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
     "death": { "date": null, "year": null, "place": null, "age_at_death": null, "source_id": null },
     "occupation": [],
     "notes": "",

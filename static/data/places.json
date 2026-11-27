@@ -1,6 +1,32 @@
 {
-  "Stockholm, Sweden": { "lat": 59.33, "lng": 18.07, "status": "manual" },
-  "Uppsala, Sweden": { "lat": 59.86, "lng": 17.64, "status": "manual" },
-  "Väster, Sweden": { "lat": 59.61, "lng": 16.55, "status": "manual" },
-  "Åby, Sweden": { "lat": 58.67, "lng": 16.19, "status": "manual" }
+  "Stockholm, Sweden": {
+    "lat": 59.33,
+    "lng": 18.07,
+    "status": "manual"
+  },
+  "Uppsala, Sweden": {
+    "lat": 59.86,
+    "lng": 17.64,
+    "status": "manual"
+  },
+  "Väster, Sweden": {
+    "lat": 59.61,
+    "lng": 16.55,
+    "status": "manual"
+  },
+  "Åby, Sweden": {
+    "lat": 58.67,
+    "lng": 16.19,
+    "status": "manual"
+  },
+  "Bandjoun, Cameroon": {
+    "lat": 5.3748573,
+    "lng": 10.4121552,
+    "status": "auto"
+  },
+  "Batié, Cameroon": {
+    "lat": 5.3134898,
+    "lng": 10.3241571,
+    "status": "auto"
+  }
 }
