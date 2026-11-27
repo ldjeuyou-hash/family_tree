@@ -4,7 +4,7 @@
     "names": [{ "value": "Fo Kamga", "type": "birth", "source_id": null }],
     "sex": "F",
     "birth": { "date": "1901-01-01", "year": null, "place": "Bandjoun, Cameroon", "source_id": null },
-    "death": { "date": "1950-01-01", "year": null, "place": null, "age_at_death": 49, "source_id": null },
+    "death": { "date": "1952-01-01", "year": null, "place": null, "age_at_death": 49, "source_id": null },
     "occupation": ["Chef Bandjoun"],
     "notes": "",
     "sources": [],
